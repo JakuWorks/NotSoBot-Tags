@@ -160,6 +160,10 @@ def main():
 
     stone_count = random.randint(min, max)
 
-    comment: str = comments[stone_count]
+    comment_raw: str = comments[stone_count]
+    comment_formatted: str = f"{comment_raw} ({stone_count})"
 
-    print(comment)
+    print(comment_formatted)
+
+
+main()
