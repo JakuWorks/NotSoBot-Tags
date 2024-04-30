@@ -1,6 +1,5 @@
 import random
 import dataclasses
-from typing import TypeAlias
 
 
 @dataclasses.dataclass
