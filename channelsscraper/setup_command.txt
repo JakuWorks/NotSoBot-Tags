@@ -1,0 +1,3 @@
+.t create stonecount {python:
+{text:LINK_TO_CODE}
+}
