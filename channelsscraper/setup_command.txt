@@ -1,3 +1,0 @@
-.t create channels_scraper {python:
-{text:LINK_TO_CODE}
-}
