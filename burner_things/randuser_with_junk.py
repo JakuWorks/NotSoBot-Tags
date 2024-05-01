@@ -1,3 +1,3 @@
 print("Junk1")
-{randuser}
+print(r"{randuser}")
 print("Junk2")
