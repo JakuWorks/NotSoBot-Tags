@@ -1,1 +1,13 @@
-I use this repository to store code related to my custom NotSoBot tags
+
+
+# Project Summary
+
+
+## Short Description
+This repository stores code related to custom NotSoBot tags
+
+
+## Used Languages
+- Python
+- TypeScript
+- NotSoBot TagScript
