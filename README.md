@@ -11,3 +11,7 @@ This repository stores code related to custom NotSoBot tags
 - Python
 - TypeScript
 - NotSoBot TagScript
+
+
+## Time
+- I started documenting these on 01.05.2024
